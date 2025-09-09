@@ -54,12 +54,19 @@ This project highlights my ability to design and implement robust backend system
 # 📂 Project Structure
 
 globetrekker/
+
  ┣ src/
+ 
  ┃ ┣ main/
+ 
  ┃ ┃ ┣ java/com/globetrekker/...
+ 
  ┃ ┃ ┗ resources/
+ 
  ┃ ┗ test/
+ 
  ┣ pom.xml
+ 
  ┗ README.md
 
 
