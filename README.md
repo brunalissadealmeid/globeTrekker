@@ -1,10 +1,10 @@
-🌍 GlobeTrekker
+# 🌍 GlobeTrekker
 
 GlobeTrekker is a backend travel management platform that enables users to explore destinations, share reviews, and plan trips.
 
 Built with Java + Spring Boot, it demonstrates scalable architecture, secure APIs, and integration with external services.
 
-🚀 Features
+# 🚀 Features
 
 RESTful API with Java 17 + Spring Boot
 
@@ -23,7 +23,7 @@ API documentation with Swagger/OpenAPI
 Containerized with Docker
 
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 Backend: Java 17, Spring Boot, Maven
 
@@ -36,7 +36,7 @@ Testing: JUnit, Mockito
 Deployment: Docker
 
 
-🎯 Why This Project
+# 🎯 Why This Project
 
 GlobeTrekker was designed to showcase:
 
@@ -51,7 +51,7 @@ Production-ready practices: testing, API docs, containerization
 This project highlights my ability to design and implement robust backend systems aligned with modern industry standards.
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 globetrekker/
  ┣ src/
@@ -63,28 +63,28 @@ globetrekker/
  ┗ README.md
 
 
-🚦 Getting Started
+# 🚦 Getting Started
 
-# Clone repository
+- Clone repository
 git clone https://github.com/your-username/globetrekker.git
 
-# Navigate into project
+- Navigate into project
 cd globetrekker
 
-# Run with Maven
+- Run with Maven
 mvn spring-boot:run
 
 API will be available at: http://localhost:8080/api
 
 
-📖 API Documentation
+# 📖 API Documentation
 
 Interactive API docs available at:
 
 http://localhost:8080/swagger-ui.html
 
 
-🌐 Future Improvements
+# 🌐 Future Improvements
 
 Frontend integration (React/Angular)
 
